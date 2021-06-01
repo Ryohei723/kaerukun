@@ -1,8 +1,7 @@
 # SuversionとGitを徹底比較
 ##　ｄｆｇｈｊ
 ##　ｄｆｇｈｊ
-##　ｄｆｇｈｊ
-##　ｄｆｇｈｊ
+##　ｄｆｇhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ##　バージョン管理システム王者決定戦
 ## 変更し立ったわ
